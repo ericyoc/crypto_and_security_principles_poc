@@ -36,20 +36,6 @@ This Python script demonstrates the following concepts:
 | HTTP -> HTTPS Upgrade | Process of redirecting HTTP requests to HTTPS | Ensures secure communication by default | Network Security |
 | Mixed Content | Web pages containing both HTTP and HTTPS resources | Can lead to security vulnerabilities if not handled properly | Web Security |
 
-## Usage
-
-To run the script:
-
-1. Install the required packages:
-   ```
-   pip install matplotlib networkx prettytable cryptography sympy
-   ```
-
-2. Run the script:
-   ```
-   python cryptography_demo.py
-   ```
-
 The script will demonstrate each concept, display visualizations, and provide explanations for each plot.
 
 ## License
